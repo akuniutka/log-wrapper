@@ -1,0 +1,1 @@
+A wrapper class for log output to be used in tests.
